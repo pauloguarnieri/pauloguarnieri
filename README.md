@@ -1,11 +1,13 @@
 ### Hi, I am Paulo 👋
 
 <br/>
-## About me:
+
+## ABOUT ME:
+
 <br/>
-- ⚡ I am a Full Stack Web Developer from Brazil.
-- 🔭 I’m currently searching for a job as back end developer
-- 🌱 And I’m currently learning python/django/MongoDB at Kenzie Academy BR.
+- ⚡ I am a Full Stack Web Developer from Brazil.<br/>
+- 🔭 I’m currently searching for a job as back end developer.<br/>
+- 🌱 And I’m currently learning python/django/MongoDB at Kenzie Academy BR.<br/>
 
 
 
