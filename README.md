@@ -34,7 +34,7 @@ Entre outros, coloque apenas o que você se sentir confortável para colocar.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" />
-
+<br/>
 
 
 ## CONTATO:
@@ -42,6 +42,8 @@ Entre outros, coloque apenas o que você se sentir confortável para colocar.
 <a href="https://instagram.com/paulo.guarnieri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:paulo.r.guarnieri@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+
+## STATS:
 <div>
 <a href="https://github.com/pauloguarnieri">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloguarnieri&layout=compact&langs_count=7&theme=dracula"/>
