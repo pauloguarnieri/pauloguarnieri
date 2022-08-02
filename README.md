@@ -2,7 +2,7 @@
 
 <br/>
 
-## ABOUT ME:
+## About me:
 
 <br/>
 - ⚡ I am a Full Stack Web Developer from Brazil.<br/>
@@ -11,7 +11,7 @@
 
 
 
-## Ferramentas e tecnologias:
+## Technologies and tools:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" />
@@ -34,14 +34,14 @@
 <br/>
 
 
-## CONTATO:
+## Contact:
 <br/>
 <a href="https://www.linkedin.com/in/pauloguarnieri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/paulo.guarnieri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:paulo.r.guarnieri@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-## STATS:
+## Stats:
 <div>
 <a href="https://github.com/pauloguarnieri">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloguarnieri&layout=compact&langs_count=7&theme=dracula"/>
