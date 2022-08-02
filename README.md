@@ -1,18 +1,13 @@
-### Hi there 👋
+### Hi, I am Paulo 👋
 
-- 🔭 I’m currently searching for a job
-- 🌱 I’m currently learning python/django
+<br/>
+## About me:
+<br/>
+- ⚡ I am a Full Stack Web Developer from Brazil.
+- 🔭 I’m currently searching for a job as back end developer
+- 🌱 And I’m currently learning python/django/MongoDB at Kenzie Academy BR.
 
-Fale um pouco sobre você
-Fale sobre coisas que você ache essencial para que as pessoas que passarem pelo seu perfil do GitHub vejam. Seguem algumas coisas que particularmente gosto de demonstrar, mas é totalmente opcional:
 
-Se você trabalha ou estuda. Se sim, é legal citar onde e em qual área;
-O que você anda aprendendo;
-Suas experiências, caso tenha, como atividades acadêmicas ou antigos trabalhos. Caso esteja em transição de carreira, acredito que seja legal citar também;
-Contatos, mas é importante pensar direitinho quais colocarem;
-Conhecimentos adquiridos;
-Região onde mora, mas não especifique tanto;
-Entre outros, coloque apenas o que você se sentir confortável para colocar.
 
 ## Ferramentas e tecnologias:
 
@@ -65,5 +60,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
