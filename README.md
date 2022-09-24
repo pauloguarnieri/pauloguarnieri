@@ -9,7 +9,7 @@
 - 🔭 I’m currently searching for a job as back end developer.<br/>
 - 🌱 And I’m currently learning python/django/MongoDB at Kenzie Academy BR.<br/>
 
-
+<a href="https://pauloguarnieri.github.io" target="_blank">PORTFOLIO</a>
 
 ## Technologies and tools:
 
