@@ -7,9 +7,11 @@
 <br/>
 - ⚡ Recentemente terminei um curso de desenvolvimento fullstack.<br/>
 - 🔭 Atualmente estou procurando por uma oportunidade como desenvolvedor back end.<br/>
-- 🌱 no momento estou estudando Django e bancos de dados nao relacionais.<br/>
-
-<a href="https://pauloguarnieri.github.io" target="_blank">PORTFOLIO</a>
+- 🌱 no momento estou estudando Django e bancos de dados nao relacionais.
+<br/>
+<br/>
+Você também pode dar uma olhada em meu portfolio:
+<a href="https://pauloguarnieri.github.io" target="_blank">Portfolio Paulo Guarnieri</a>
 
 ## Tecnologias e ferramentas:
 
