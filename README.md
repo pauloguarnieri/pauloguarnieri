@@ -1,17 +1,17 @@
-### Hi, I am Paulo 👋
+### Olá, eu sou o Paulo 👋
 
 <br/>
 
-## About me:
+## Sobre mim:
 
 <br/>
-- ⚡ I am a Full Stack Web Developer from Brazil.<br/>
-- 🔭 I’m currently searching for a job as back end developer.<br/>
-- 🌱 And I’m currently learning python/django/MongoDB at Kenzie Academy BR.<br/>
+- ⚡ Recentemente terminei um curso de desenvolvimento fullstack.<br/>
+- 🔭 Atualmente estou procurando por uma oportunidade como desenvolvedor back end.<br/>
+- 🌱 no momento estou estudando Django e bancos de dados nao relacionais.<br/>
 
 <a href="https://pauloguarnieri.github.io" target="_blank">PORTFOLIO</a>
 
-## Technologies and tools:
+## Tecnologias e ferramentas:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" />
@@ -37,7 +37,7 @@
 <br/>
 
 
-## Contact:
+## Contato:
 <br/>
 <a href="https://www.linkedin.com/in/pauloguarnieri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:paulo.r.guarnieri@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
