@@ -5,9 +5,9 @@
 ## Sobre mim:
 
 <br/>
-- ⚡ Recentemente terminei um curso de desenvolvimento fullstack.<br/>
-- 🔭 Atualmente estou procurando por uma oportunidade como desenvolvedor back end.<br/>
-- 🌱 no momento estou estudando Django e bancos de dados nao relacionais.
+- ⚡ Recentemente terminei um curso de desenvolvimento web fullstack.<br/>
+- 🔭 Estou procurando por uma oportunidade como desenvolvedor back end.<br/>
+- 🌱 No momento estou estudando bancos de dados nao relacionais.
 <br/>
 <br/>
 Você também pode dar uma olhada em meu portfolio:
