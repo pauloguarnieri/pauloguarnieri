@@ -5,9 +5,10 @@
 ## Sobre mim:
 
 <br/>
-- ⚡ Recentemente terminei um curso de desenvolvimento web fullstack.<br/>
-- 🔭 Estou procurando por uma oportunidade como desenvolvedor back end.<br/>
-- 🌱 No momento estou estudando bancos de dados nao relacionais.
+- ⚡ Em 2022 terminei um curso de desenvolvimento web fullstack na Kenzie Academy Br.<br/>
+- ⚡ Possuo experiencia de 9 meses com monitoria, e de 7 meses como desenvolvedor fullstack.<br/>
+- 🔭 Estou procurando por uma oportunidade como desenvolvedor backend ou fullstack.<br/>
+- 🌱 No momento estou estudando Java.
 <br/>
 <br/>
 Você também pode dar uma olhada em meu portfolio:
