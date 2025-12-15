@@ -6,9 +6,9 @@
 
 <br/>
 - ⚡ Em 2022 terminei um curso de desenvolvimento web fullstack na Kenzie Academy Br.<br/>
-- ⚡ Possuo experiencia de 9 meses com monitoria, e de 7 meses como desenvolvedor fullstack.<br/>
-- 🔭 Estou procurando por uma oportunidade como desenvolvedor backend ou fullstack.<br/>
-- 🌱 No momento estou estudando Java.
+- ⚡ Possuo experiencia de 9 meses com monitoria, e de 2 anos como desenvolvedor fullstack.<br/>
+
+
 <br/>
 <br/>
 Você também pode dar uma olhada em meu portfolio:
