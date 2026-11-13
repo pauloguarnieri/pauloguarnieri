@@ -5,9 +5,8 @@
 ## Sobre mim:
 
 <br/>
-- ⚡ Em 2022 terminei um curso de desenvolvimento web fullstack na Kenzie Academy Br.<br/>
-- ⚡ Possuo experiencia de 9 meses com monitoria, e de 2 anos como desenvolvedor fullstack.<br/>
--   Atualmente desenvolvendo em react native.
+- ⚡ Desenvolvedor desde 2022,
+- FullStack e mobile
 
 
 <br/>
